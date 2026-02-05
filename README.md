@@ -1,6 +1,6 @@
 # Sekiro: Shadows Die Twice Save Editor (PS4)
 
-A professional graphical save editor for *Sekiro: Shadows Die Twice* on PS4, developed with Python and PyQt6. This tool allows for precise modification of character progression, currency, and a comprehensive management system for both active inventory and storage boxes.
+A save editor for *Sekiro: Shadows Die Twice* on PS4, developed with Python and PyQt6. This tool allows for precise modification of character progression, currency, and a comprehensive management system for both active inventory and storage boxes.
 
 ## 🚀 Key Features
 
